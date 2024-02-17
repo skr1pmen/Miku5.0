@@ -1,0 +1,92 @@
+[
+  {
+    "name": "/about",
+    "description": "Мику расскажет в личных сообщениях о себе.",
+    "is_admin": false
+  },
+  {
+    "name": "/activities",
+    "description": "Играй или смотри YouTube прямо в дискорде с друзьями.",
+    "is_admin": false
+  },
+  {
+    "name": "/balance",
+    "description": "Покажет сколько :leaves: на балансе участника сервера.",
+    "is_admin": false
+  },
+  {
+    "name": "/ban",
+    "description": "Команда для блокировки пользователя с сервера.",
+    "is_admin": true
+  },
+  {
+    "name": "/casino",
+    "description": "Мини-игра Казино! Предназначена для зарабатывания :leaves:.",
+    "is_admin": false
+  },
+  {
+    "name": "/clear",
+    "description": "Команда удаляет сообщения в чате.",
+    "is_admin": true
+  },
+  {
+    "name": "/coin",
+    "description": "Мини-игра Монетка. Отгадай орёл или решка и умножь свой баланс.",
+    "is_admin": false
+  },
+  {
+    "name": "/convey",
+    "description": "Команда для передачи какой-то суммы :leaves: другому пользователю.",
+    "is_admin": false
+  },
+  {
+    "name": "/help",
+    "description": "Вывод всех команд сервера, доступные для пользователя.",
+    "is_admin": false
+  },
+  {
+    "name": "/info",
+    "description": "Мику в личных сообщениях расскажет про сервер",
+    "is_admin": false
+  },
+  {
+    "name": "/kick",
+    "description": "Команда для отключения пользователя от сервера.",
+    "is_admin": true
+  },
+  {
+    "name": "/leaderboard",
+    "description": "Мику покажет том 10 самых богатых людей сервера.",
+    "is_admin": false
+  },
+  {
+    "name": "/mute",
+    "description": "Команда выдаёт мут пользователю сервера.",
+    "is_admin": true
+  },
+  {
+    "name": "/random",
+    "description": "Выдаст вам случайное число в указанных рамках.",
+    "is_admin": false
+  },
+  {
+    "name": "/rules",
+    "description": "Мику пришлёт в личные сообщения правила сервера.",
+    "is_admin": false
+  },
+  {
+    "name": "/shop",
+    "description": "Внутри-серверный магазин ролей и других плюшек",
+    "is_admin": false
+  },
+  {
+    "name": "/status",
+    "description": "Команда для замены статуса бота.",
+    "is_admin": true
+  },
+  {
+    "name": "/unban",
+    "description": "Команда разблокировки ранее заблокированного пользователя.",
+    "is_admin": true
+  }
+]
